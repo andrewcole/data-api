@@ -1,0 +1,546 @@
+[
+  {
+    "date": "2020-2-29",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "S. Bryans",
+    "crew": "Self",
+    "route": "YMMB-TA-YMMB",
+    "details": "Effects of Controls",
+    "singleengine": {
+      "dual": 0.8
+    },
+    "links": {
+      "blog": "https://coley.au/2020/02/29/first-flight/",
+      "photos": "https://gallery.coley.au/gallery/2020%2F02%2F29%2Ffirst-flight"
+    }
+  },
+  {
+    "date": "2020-3-8",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-TA-YMMB",
+    "details": "Straight and Level",
+    "singleengine": {
+      "dual": 0.9
+    }
+  },
+  {
+    "date": "2020-3-15",
+    "type": "C152",
+    "reg": "MJG",
+    "pic": "T.K. Chow",
+    "crew": "Self",
+    "route": "YMMB-TA-YMMB",
+    "details": "Turning",
+    "singleengine": {
+      "dual": 1
+    }
+  },
+  {
+    "date": "2020-3-21",
+    "type": "C152",
+    "reg": "MJG",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-TA-YMMB",
+    "details": "Climbing & Descending",
+    "singleengine": {
+      "dual": 1
+    }
+  },
+  {
+    "date": "2020-3-28",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "M. Iyer",
+    "crew": "Self",
+    "route": "YMMB-TA-YMMB",
+    "details": "Stalls",
+    "singleengine": {
+      "dual": 1
+    }
+  },
+  {
+    "date": "2020-4-13",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "S. Bryans",
+    "crew": "Self",
+    "route": "YMMB-CCTS-YMMB",
+    "details": "Circuits",
+    "singleengine": {
+      "dual": 1
+    }
+  },
+  {
+    "date": "2020-4-19",
+    "type": "C152",
+    "reg": "MJG",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-TA-CCTS-YMMB",
+    "details": "Circuits & Stalls",
+    "singleengine": {
+      "dual": 1
+    }
+  },
+  {
+    "date": "2020-5-10",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "T.K. Chow",
+    "crew": "Self",
+    "route": "YMMB-CCTS-YMMB",
+    "details": "Circuits",
+    "singleengine": {
+      "dual": 1.1
+    }
+  },
+  {
+    "date": "2020-5-16",
+    "type": "C152",
+    "reg": "VCI",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-CCTS-YMMB",
+    "details": "Circuits",
+    "singleengine": {
+      "dual": 1.1
+    }
+  },
+  {
+    "date": "2020-5-29",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "C. Spencer",
+    "crew": "Self",
+    "route": "YMMB-CCTS-YMMB",
+    "details": "Circuits",
+    "singleengine": {
+      "dual": 1.1
+    }
+  },
+  {
+    "date": "2020-5-31",
+    "type": "C152",
+    "reg": "MJG",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-CCTS-YMMB",
+    "details": "Circuits",
+    "singleengine": {
+      "dual": 0.9
+    }
+  },
+  {
+    "date": "2020-6-6",
+    "type": "C152",
+    "reg": "VCI",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-CCTS-YMMB",
+    "details": "Circuits, Flapless & Go-Arounds",
+    "singleengine": {
+      "dual": 1
+    }
+  },
+  {
+    "date": "2020-6-8",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-CCTS-YMMB",
+    "details": "Circuits, Flapless & Missed",
+    "singleengine": {
+      "dual": 1
+    }
+  },
+  {
+    "date": "2020-6-13",
+    "type": "C152",
+    "reg": "VCI",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-CCTS-YMMB",
+    "details": "Circuits, Flapless & Missed",
+    "singleengine": {
+      "dual": 0.9
+    }
+  },
+  {
+    "date": "2020-6-20",
+    "type": "C152",
+    "reg": "MJG",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-CCTS-YMMB",
+    "details": "Circuit Emergencies",
+    "singleengine": {
+      "dual": 0.9
+    }
+  },
+  {
+    "date": "2020-6-28",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-CCTS-YMMB",
+    "singleengine": {
+      "dual": 1.1
+    }
+  },
+  {
+    "date": "2020-6-30",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-CCTS-YMMB",
+    "singleengine": {
+      "dual": 1
+    }
+  },
+  {
+    "date": "2020-7-25",
+    "type": "C152",
+    "reg": "MJG",
+    "pic": "L. Schueler",
+    "crew": "Self",
+    "route": "YMMB-CCTS-YMMB",
+    "singleengine": {
+      "dual": 0.9
+    }
+  },
+  {
+    "date": "2020-7-29",
+    "type": "C152",
+    "reg": "MJG",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-CCTS-YMMB",
+    "singleengine": {
+      "dual": 1.1
+    }
+  },
+  {
+    "date": "2020-8-2",
+    "type": "C152",
+    "reg": "MJG",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-CCTS-YMMB",
+    "singleengine": {
+      "dual": 1
+    }
+  },
+  {
+    "date": "2020-11-7",
+    "type": "C152",
+    "reg": "MJG",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-CCTS-YMMB",
+    "singleengine": {
+      "dual": 0.9
+    }
+  },
+  {
+    "date": "2020-11-14",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-CCTS-YMMB",
+    "details": "31L",
+    "singleengine": {
+      "dual": 1
+    }
+  },
+  {
+    "date": "2020-11-21",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-CCTS-YMMB",
+    "singleengine": {
+      "dual": 0.9
+    }
+  },
+  {
+    "date": "2020-11-28",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-CCTS-YMMB",
+    "singleengine": {
+      "dual": 1.2
+    }
+  },
+  {
+    "date": "2020-12-12",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-CCTS-YMMB",
+    "singleengine": {
+      "dual": 1.1
+    }
+  },
+  {
+    "date": "2020-12-20",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-CCTS-YMMB",
+    "singleengine": {
+      "dual": 1
+    }
+  },
+  {
+    "date": "2021-1-9",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "M. Iyer",
+    "crew": "Self",
+    "route": "YMMB-CCTS-YMMB",
+    "singleengine": {
+      "dual": 0.7
+    }
+  },
+  {
+    "date": "2021-1-9",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "Self",
+    "route": "YMMB-CCTS-YMMB",
+    "details": "Circuit Solo #1",
+    "singleengine": {
+      "command": 0.3
+    }
+  },
+  {
+    "date": "2021-1-17",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-CCTS-YMMB",
+    "singleengine": {
+      "dual": 0.7
+    }
+  },
+  {
+    "date": "2021-1-17",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "Self",
+    "route": "YMMB-CCTS-YMMB",
+    "details": "Circuit Solo #2",
+    "singleengine": {
+      "command": 0.7
+    }
+  },
+  {
+    "date": "2021-1-24",
+    "type": "C152",
+    "reg": "MJG",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-CCTS-YMMB",
+    "singleengine": {
+      "dual": 0.7
+    }
+  },
+  {
+    "date": "2021-1-24",
+    "type": "C152",
+    "reg": "MJG",
+    "pic": "Self",
+    "route": "YMMB-CCTS-YMMB",
+    "details": "Circuit Solo #3",
+    "singleengine": {
+      "command": 0.7
+    }
+  },
+  {
+    "date": "2021-1-27",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-TA-YMMB",
+    "details": "Advanced Stalls",
+    "singleengine": {
+      "dual": 1
+    }
+  },
+  {
+    "date": "2021-1-30",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-CCTS-YMMB",
+    "details": "Crosswind Landings",
+    "singleengine": {
+      "dual": 0.9
+    }
+  },
+  {
+    "date": "2021-2-20",
+    "type": "C152",
+    "reg": "VCI",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-TA-YMMB",
+    "details": "Forced Landings",
+    "singleengine": {
+      "dual": 1
+    }
+  },
+  {
+    "date": "2021-3-13",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-TA-YMMB",
+    "details": "Steep Turns",
+    "singleengine": {
+      "dual": 1
+    }
+  },
+  {
+    "date": "2021-3-20",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-CCTS-YMMB",
+    "details": "Crosswind Landings",
+    "singleengine": {
+      "dual": 1
+    }
+  },
+  {
+    "date": "2021-3-28",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-TA-YMMB",
+    "singleengine": {
+      "dual": 1
+    }
+  },
+  {
+    "date": "2021-4-3",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-TA-YMMB",
+    "singleengine": {
+      "dual": 0.9
+    }
+  },
+  {
+    "date": "2021-4-3",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "Self",
+    "route": "YMMB-TA-YMMB",
+    "details": "Area Solo #1",
+    "singleengine": {
+      "command": 1
+    }
+  },
+  {
+    "date": "2021-4-17",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-YTDN-YMMB",
+    "details": "Precautianary Search and Landing",
+    "singleengine": {
+      "dual": 1.4
+    }
+  },
+  {
+    "date": "2021-4-24",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-CCTS-YMMB",
+    "details": "Short Field Landings",
+    "singleengine": {
+      "dual": 1
+    }
+  },
+  {
+    "date": "2021-5-1",
+    "type": "C152",
+    "reg": "VCI",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-TA-YMMB",
+    "singleengine": {
+      "dual": 0.9
+    }
+  },
+  {
+    "date": "2021-5-9",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-TA-YMMB",
+    "singleengine": {
+      "dual": 0.8
+    }
+  },
+  {
+    "date": "2021-6-13",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "route": "YMMB-TA-YMMB",
+    "singleengine": {
+      "dual": 0.7
+    }
+  },
+  {
+    "date": "2021-6-13",
+    "type": "C152",
+    "reg": "VCY",
+    "pic": "Self",
+    "route": "YMMB-TA-YMMB",
+    "details": "Area Solo #2",
+    "singleengine": {
+      "command": 1.1
+    }
+  },
+  {
+    "date": "2021-6-20",
+    "type": "SIM",
+    "reg": "DCX",
+    "pic": "K. Bartlett",
+    "crew": "Self",
+    "details": "Basic Instrument Flight",
+    "instrument": {
+      "simulator": 1
+    }
+  }
+]
