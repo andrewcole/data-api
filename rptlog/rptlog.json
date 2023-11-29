@@ -2531,7 +2531,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-OGT"
+            "registration": "VH-OGT",
+            "type": "763"
           },
           "seat": "2A",
           "notes": "Alone in Business!"
