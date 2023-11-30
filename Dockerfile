@@ -70,6 +70,27 @@ ADD rptlog/ .
 
 # Create database
 RUN python3 rptlog.py
+ 
+# Create log view
+RUN sqlite-utils create-view rptlog.db log \
+  'select \
+    trip.`title` as trip, \
+    flight.`flight` as flight, \
+    origin.`iata` as origin, \
+    destination.`iata` as destination, \
+    flight.`start` as start, \
+    flight.`end` as end, \
+    aircraft.`registration` as registration, \
+    type.`name` as type \
+  from \
+    trip \
+    inner join flight on flight.`trip_id` = trip.`id` \
+    inner join airport as origin on flight.`origin_id` = origin.`id` \
+    inner join airport as destination on flight.`destination_id` = destination.`id` \
+    inner join aircraft on flight.`aircraft_id` = aircraft.id \
+    inner join type on aircraft.`type_id` = type.id \
+  order by \
+    flight.`start`'
 
 FROM builder AS openflights-builder
 
