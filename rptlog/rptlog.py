@@ -56,6 +56,12 @@ class Aircraft(BaseModel):
     type = ForeignKeyField(Type, backref="type")
 
 
+class AircraftLink(BaseModel):
+    aircraft = ForeignKeyField(Aircraft, backref="aircraft")
+    icon = TextField()
+    href = TextField()
+
+
 class Flight(BaseModel):
     trip = ForeignKeyField(Trip, backref="flights")
     flight = TextField()
@@ -99,8 +105,8 @@ def cli(
         pragmas={"cache_size": -64 * 1000, "synchronous": 0, "foreign_keys": 1},
     )
     db.connect()
-    with db.bind_ctx([Trip, Flight, Airport, Aircraft, Type]):
-        db.create_tables([Trip, Flight, Airport, Aircraft, Type])
+    with db.bind_ctx([Trip, Flight, Airport, Aircraft, AircraftLink, Type]):
+        db.create_tables([Trip, Flight, Airport, Aircraft, AircraftLink, Type])
 
         with db.atomic():
             for json_trip in json_data["trips"]:
@@ -150,7 +156,7 @@ def cli(
                             raise ValueError(
                                 f"Aircraft: {json_flight['aircraft']['registration']} missing type"
                             )
-                        
+
                         sql_aircraft_type, created = Type.get_or_create(
                             name=json_flight["aircraft"]["type"],
                             defaults={},
@@ -161,6 +167,15 @@ def cli(
                             type=sql_aircraft_type,
                             defaults={},
                         )
+
+                        if "links" in json_flight["aircraft"].keys():
+                            for link in json_flight["aircraft"]["links"]:
+                                AircraftLink.get_or_create(
+                                    aircraft=sql_aircraft,
+                                    icon = link['icon'],
+                                    href = link['href'],
+                                    defaults={},
+                                )
                     else:
                         sql_aircraft = None
 

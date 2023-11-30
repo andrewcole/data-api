@@ -80,6 +80,7 @@ RUN sqlite-utils create-view rptlog.db log \
     destination.`iata` as destination, \
     flight.`start` as start, \
     flight.`end` as end, \
+    aircraft.`id` as aircraft_id, \
     aircraft.`registration` as registration, \
     type.`name` as type \
   from \
@@ -123,10 +124,20 @@ RUN sqlite-utils transform openflights.db planes \
   --rename untitled_2 iata \
   --rename untitled_3 icao
 
+FROM builder AS postcodes-builder
+
+# Add australian_postcodes.json
+ADD https://raw.githubusercontent.com/matthewproctor/australianpostcodes/master/australian_postcodes.json .
+
+# Create database
+RUN sqlite-utils insert postcodes.db postcodes australian_postcodes.json --detect-types
+
+# Final image
 FROM docker.io/datasetteproject/datasette:0.64.5
 
 COPY --from=galog-builder galog.db /mnt/galog.db
 COPY --from=rptlog-builder rptlog.db /mnt/rptlog.db
 COPY --from=openflights-builder openflights.db /mnt/openflights.db
+COPY --from=postcodes-builder postcodes.db /mnt/postcodes.db
 
-CMD "datasette" "-p" "8001" "-h" "0.0.0.0" "/mnt/galog.db" "/mnt/rptlog.db" "/mnt/openflights.db"
+CMD "datasette" "-p" "8001" "-h" "0.0.0.0" "/mnt/galog.db" "/mnt/rptlog.db" "/mnt/openflights.db" "/mnt/postcodes.db"

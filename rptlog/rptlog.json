@@ -405,7 +405,14 @@
           },
           "purpose": "L",
           "aircraft": {
-            "type": "100"
+            "type": "100",
+            "registration": "B-12291",
+            "links": [
+              {
+                "icon": "https://www.planespotters.net/favicon_64.png",
+                "href": "https://www.planespotters.net/airframe/fokker-f100-up-f1005-bek-air/380wo2"
+              }
+            ]
           },
           "seat": "19C"
         },
