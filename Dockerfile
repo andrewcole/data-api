@@ -141,4 +141,4 @@ COPY --from=openflights-builder openflights.db /mnt/openflights.db
 COPY --from=postcodes-builder postcodes.db /mnt/postcodes.db
 
 RUN pip install datasette-graphql
-CMD "datasette" "-p" "8001" "-h" "0.0.0.0" "/mnt/galog.db" "/mnt/rptlog.db" "/mnt/openflights.db" "/mnt/postcodes.db"
+CMD "datasette" "-p" "8001" "-h" "0.0.0.0" "/mnt/"
