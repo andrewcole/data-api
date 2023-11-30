@@ -51,7 +51,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-VUB"
+            "registration": "VH-VUB",
+            "type": "738"
           }
         },
         {
@@ -351,7 +352,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-VOD"
+            "registration": "VH-VOD",
+            "type": "738"
           }
         }
       ]
@@ -588,7 +590,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-TJM"
+            "registration": "VH-TJM",
+            "type": "734"
           },
           "seat": "21D"
         },
@@ -604,7 +607,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-SBI"
+            "registration": "VH-SBI",
+            "type": "DH3"
           },
           "seat": "12C"
         },
@@ -651,7 +655,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-VYJ"
+            "registration": "VH-VYJ",
+            "type": "738"
           },
           "seat": "13D"
         },
@@ -756,7 +761,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "9V-SKB"
+            "registration": "9V-SKB",
+            "type": "388"
           },
           "seat": "58B"
         },
@@ -772,7 +778,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "9V-SKA"
+            "registration": "9V-SKA",
+            "type": "388"
           },
           "seat": "43J"
         },
@@ -788,7 +795,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "9V-SPJ"
+            "registration": "9V-SPJ",
+            "type": "744"
           },
           "seat": "42B"
         },
@@ -804,7 +812,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-TJX"
+            "registration": "VH-TJX",
+            "type": "734"
           },
           "seat": "11B"
         }
@@ -825,7 +834,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-ZHD"
+            "registration": "VH-ZHD",
+            "type": "E70"
           },
           "seat": "18C",
           "notes": "First flight cancelled; Second flight was delayed until I wouldnt have made connection; Was finally put on this flight; 8hrs waiting in CBR using free wireless."
@@ -842,7 +852,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-VUJ"
+            "registration": "VH-VUJ",
+            "type": "738"
           },
           "seat": "15C"
         },
@@ -858,7 +869,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-VOX"
+            "registration": "VH-VOX",
+            "type": "738"
           },
           "seat": "9E",
           "notes": "Pacific Blue plane no IFE fitted."
@@ -875,7 +887,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-ZHF"
+            "registration": "VH-ZHF",
+            "type": "E70"
           },
           "seat": "11A"
         }
@@ -896,7 +909,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-VXS"
+            "registration": "VH-VXS",
+            "type": "738"
           },
           "seat": "24D"
         },
@@ -986,7 +1000,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-ZHF"
+            "registration": "VH-ZHF",
+            "type": "E70"
           },
           "seat": "14F",
           "notes": "Flight departure delayed to to ATC Controller Shortage in SYD."
@@ -1020,7 +1035,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-QOM"
+            "registration": "VH-QOM",
+            "type": "DH4"
           },
           "seat": "15C",
           "notes": "Departure delayed due to DJ departure at same time."
@@ -1055,7 +1071,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-ZHD"
+            "registration": "VH-ZHD",
+            "type": "E70"
           },
           "seat": "11D"
         },
@@ -1071,7 +1088,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-VOC"
+            "registration": "VH-VOC",
+            "type": "738"
           },
           "seat": "8F"
         },
@@ -1087,7 +1105,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-VOC"
+            "registration": "VH-VOC",
+            "type": "738"
           },
           "seat": "11C"
         },
@@ -1103,7 +1122,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-VBB"
+            "registration": "VH-VBB",
+            "type": "73G"
           },
           "seat": "8C"
         }
@@ -1180,7 +1200,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-ZHD"
+            "registration": "VH-ZHD",
+            "type": "E70"
           },
           "seat": "6D"
         },
@@ -1196,7 +1217,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VOC"
+            "registration": "VH-VOC",
+            "type": "738"
           },
           "seat": "6D"
         },
@@ -1212,7 +1234,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-ZHE"
+            "registration": "VH-ZHE",
+            "type": "E70"
           },
           "seat": "10C"
         }
@@ -1233,7 +1256,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-ZHD"
+            "registration": "VH-ZHD",
+            "type": "E70"
           },
           "seat": "6F"
         },
@@ -1334,7 +1358,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-ZHE"
+            "registration": "VH-ZHE",
+            "type": "E70"
           },
           "seat": "6A"
         },
@@ -1367,7 +1392,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-TQE"
+            "registration": "VH-TQE",
+            "type": "DH3"
           },
           "seat": "6A"
         },
@@ -1383,7 +1409,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-ZHF"
+            "registration": "VH-ZHF",
+            "type": "E70"
           },
           "seat": "9C"
         }
@@ -1404,7 +1431,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-TJW"
+            "registration": "VH-TJW",
+            "type": "734"
           },
           "seat": "3A"
         },
@@ -1480,7 +1508,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-OJL"
+            "registration": "VH-OJL",
+            "type": "744"
           },
           "seat": "11K",
           "notes": "Top deck front row right hand side."
@@ -1497,7 +1526,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "HS-TGO"
+            "registration": "HS-TGO",
+            "type": "744"
           },
           "seat": "16B",
           "notes": "Top deck exit row aisle seat."
@@ -1514,7 +1544,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "HS-TLA"
+            "registration": "HS-TLA",
+            "type": "345"
           },
           "seat": "21E"
         },
@@ -1530,7 +1561,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "G-BNLW"
+            "registration": "G-BNLW",
+            "type": "744"
           },
           "seat": "64A",
           "notes": "Top deck rear facing rear most left hand side; Codeshare sold as QF302."
@@ -1547,7 +1579,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-TJL"
+            "registration": "VH-TJL",
+            "type": "734"
           }
         }
       ]
@@ -1585,7 +1618,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-VUA"
+            "registration": "VH-VUA",
+            "type": "738"
           },
           "seat": "5C",
           "notes": "Flying to Adelaide for Raelenes Birthday."
@@ -1602,7 +1636,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-VBN"
+            "registration": "VH-VBN",
+            "type": "73G"
           },
           "seat": "10E",
           "notes": "Flying to Adelaide for Raelenes Birthday; Raelene was in 10F."
@@ -1619,7 +1654,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-VYA"
+            "registration": "VH-VYA",
+            "type": "738"
           },
           "seat": "12D",
           "notes": "Flying to Adelaide for Raelenes Birthday."
@@ -1636,7 +1672,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-TJH"
+            "registration": "VH-TJH",
+            "type": "734"
           },
           "seat": "14C",
           "notes": "Flying to Adelaide for Raelenes Birthday."
@@ -1699,7 +1736,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VYL"
+            "registration": "VH-VYL",
+            "type": "738"
           },
           "seat": "2D"
         },
@@ -1715,7 +1753,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "H4-BUS","type":"320"
+            "registration": "H4-BUS",
+            "type": "320"
           },
           "seat": "3C",
           "notes": "The President of the Solomon Islands was sitting in 1C; The First Lady of the Solomon Islands was sitting in 1A."
@@ -1732,7 +1771,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "H4-BUS","type":"320"
+            "registration": "H4-BUS",
+            "type": "320"
           },
           "seat": "1C"
         },
@@ -1748,7 +1788,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-TJR"
+            "registration": "VH-TJR",
+            "type": "734"
           },
           "seat": "1D"
         }
@@ -1907,9 +1948,6 @@
             "arrival": "2012-07-09T16:05:00+10:00"
           },
           "purpose": "L",
-          "aircraft": {
-            "registration": "VH-OQP"
-          },
           "seat": "25F"
         },
         {
@@ -1924,7 +1962,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-VYG"
+            "registration": "VH-VYG",
+            "type": "738"
           },
           "seat": "11D"
         }
@@ -1945,7 +1984,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-TJR"
+            "registration": "VH-TJR",
+            "type": "734"
           }
         },
         {
@@ -1960,7 +2000,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-TJK"
+            "registration": "VH-TJK",
+            "type": "734"
           }
         }
       ]
@@ -1996,7 +2037,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-OQK"
+            "registration": "VH-OQK",
+            "type": "388"
           }
         },
         {
@@ -2011,7 +2053,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-OQK"
+            "registration": "VH-OQK",
+            "type": "388"
           }
         },
         {
@@ -2026,7 +2069,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "G-EUUZ"
+            "registration": "G-EUUZ",
+            "type": "322"
           }
         },
         {
@@ -2041,7 +2085,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "EC-LKG"
+            "registration": "EC-LKG",
+            "type": "322"
           }
         },
         {
@@ -2100,7 +2145,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-OJE"
+            "registration": "VH-OJE",
+            "type": "744"
           }
         },
         {
@@ -2115,7 +2161,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-OJE"
+            "registration": "VH-OJE",
+            "type": "744"
           }
         },
         {
@@ -2261,7 +2308,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-OQG"
+            "registration": "VH-OQG",
+            "type": "388"
           }
         },
         {
@@ -2276,7 +2324,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-OQH"
+            "registration": "VH-OQH",
+            "type": "388"
           }
         },
         {
@@ -2531,7 +2580,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-OGT"
+            "registration": "VH-OGT",
+            "type": "763"
           },
           "seat": "2A",
           "notes": "Alone in Business!"
@@ -2578,7 +2628,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-VZA"
+            "registration": "VH-VZA",
+            "type": "738"
           },
           "seat": "3A"
         },
@@ -2594,7 +2645,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-TJL"
+            "registration": "VH-TJL",
+            "type": "734"
           },
           "seat": "12A"
         },
@@ -2643,7 +2695,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-QOP"
+            "registration": "VH-QOP",
+            "type": "DH4"
           },
           "seat": "1B"
         },
@@ -2816,7 +2869,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "4R-ALJ"
+            "registration": "4R-ALJ",
+            "type": "332"
           }
         },
         {
@@ -3281,7 +3335,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VXF"
+            "registration": "VH-VXF",
+            "type": "738"
           }
         },
         {
@@ -3404,7 +3459,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VZO"
+            "registration": "VH-VZO",
+            "type": "738"
           },
           "seat": "2F"
         },
@@ -3420,7 +3476,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-XFD"
+            "registration": "VH-XFD",
+            "type": "332"
           },
           "seat": "1K"
         },
@@ -3582,7 +3639,7 @@
           "purpose": "B",
           "aircraft": {
             "registration": "A6-EIB",
-            "type": "320"
+            "type": "322"
           }
         },
         {
@@ -3621,9 +3678,6 @@
             "arrival": "2013-10-21T12:10:00+01:00"
           },
           "purpose": "B",
-          "aircraft": {
-            "registration": "LCYE"
-          },
           "seat": "3A"
         },
         {
@@ -3651,7 +3705,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "G-LENM"
+            "registration": "G-LENM",
+            "type": "AR8"
           },
           "seat": "9D"
         },
@@ -3708,7 +3763,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-ZPR"
+            "registration": "VH-ZPR",
+            "type": "190"
           }
         },
         {
@@ -3723,7 +3779,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-YFI"
+            "registration": "VH-YFI",
+            "type": "738"
           }
         }
       ]
@@ -3780,7 +3837,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-YVC"
+            "registration": "VH-YVC",
+            "type": "738"
           }
         },
         {
@@ -3795,7 +3853,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VUI"
+            "registration": "VH-VUI",
+            "type": "738"
           }
         }
       ]
@@ -3815,7 +3874,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-YIS"
+            "registration": "VH-YIS",
+            "type": "738"
           }
         },
         {
@@ -3851,7 +3911,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-YIS"
+            "registration": "VH-YIS",
+            "type": "738"
           }
         },
         {
@@ -3866,7 +3927,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VUJ"
+            "registration": "VH-VUJ",
+            "type": "738"
           }
         }
       ]
@@ -3886,7 +3948,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-YIV"
+            "registration": "VH-YIV",
+            "type": "738"
           }
         },
         {
@@ -3901,7 +3964,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-YIS"
+            "registration": "VH-YIS",
+            "type": "738"
           }
         }
       ]
@@ -3921,7 +3985,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-YIF"
+            "registration": "VH-YIF",
+            "type": "738"
           }
         },
         {
@@ -3936,7 +4001,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VUC"
+            "registration": "VH-VUC",
+            "type": "738"
           }
         }
       ]
@@ -3956,7 +4022,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VXL"
+            "registration": "VH-VXL",
+            "type": "738"
           }
         },
         {
@@ -3971,7 +4038,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-YVD"
+            "registration": "VH-YVD",
+            "type": "738"
           }
         }
       ]
@@ -4020,7 +4088,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VZD"
+            "registration": "VH-VZD",
+            "type": "738"
           }
         },
         {
@@ -4035,7 +4104,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VYC"
+            "registration": "VH-VYC",
+            "type": "738"
           }
         }
       ]
@@ -4055,7 +4125,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VZU"
+            "registration": "VH-VZU",
+            "type": "738"
           }
         },
         {
@@ -4070,7 +4141,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-XZJ"
+            "registration": "VH-XZJ",
+            "type": "738"
           }
         }
       ]
@@ -4090,7 +4162,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-YVC"
+            "registration": "VH-YVC",
+            "type": "738"
           }
         },
         {
@@ -4105,7 +4178,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-YIV"
+            "registration": "VH-YIV",
+            "type": "738"
           }
         }
       ]
@@ -4125,7 +4199,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VYE"
+            "registration": "VH-VYE",
+            "type": "738"
           }
         }
       ]
@@ -4145,7 +4220,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VUA"
+            "registration": "VH-VUA",
+            "type": "738"
           }
         },
         {
@@ -4160,7 +4236,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VOX"
+            "registration": "VH-VOX",
+            "type": "738"
           }
         }
       ]
@@ -4197,7 +4274,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-XZM"
+            "registration": "VH-XZM",
+            "type": "738"
           }
         },
         {
@@ -4212,7 +4290,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-VYA"
+            "registration": "VH-VYA",
+            "type": "738"
           }
         }
       ]
@@ -4232,7 +4311,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-YIJ"
+            "registration": "VH-YIJ",
+            "type": "738"
           }
         }
       ]
@@ -4252,7 +4332,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VOL"
+            "registration": "VH-VOL",
+            "type": "738"
           }
         },
         {
@@ -4267,7 +4348,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-YFR"
+            "registration": "VH-YFR",
+            "type": "738"
           }
         }
       ]
@@ -4357,7 +4439,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-YQV"
+            "registration": "VH-YQV",
+            "type": "712"
           }
         },
         {
@@ -4372,7 +4455,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-YIA"
+            "registration": "VH-YIA",
+            "type": "738"
           }
         }
       ]
@@ -4392,7 +4476,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VYC"
+            "registration": "VH-VYC",
+            "type": "738"
           }
         },
         {
@@ -4407,7 +4492,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VZZ"
+            "registration": "VH-VZZ",
+            "type": "738"
           }
         }
       ]
@@ -4427,7 +4513,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VXC"
+            "registration": "VH-VXC",
+            "type": "738"
           }
         },
         {
@@ -4442,7 +4529,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VXF"
+            "registration": "VH-VXF",
+            "type": "738"
           }
         }
       ]
@@ -4462,7 +4550,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VXI"
+            "registration": "VH-VXI",
+            "type": "738"
           }
         },
         {
@@ -4477,7 +4566,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VZB"
+            "registration": "VH-VZB",
+            "type": "738"
           }
         }
       ]
@@ -4497,7 +4587,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VZA"
+            "registration": "VH-VZA",
+            "type": "738"
           }
         },
         {
@@ -4512,7 +4603,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-XZO"
+            "registration": "VH-XZO",
+            "type": "738"
           }
         }
       ]
@@ -4532,7 +4624,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-XZO"
+            "registration": "VH-XZO",
+            "type": "738"
           }
         },
         {
@@ -4547,7 +4640,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VUL"
+            "registration": "VH-VUL",
+            "type": "738"
           }
         }
       ]
@@ -4583,7 +4677,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-XZN"
+            "registration": "VH-XZN",
+            "type": "738"
           }
         }
       ]
@@ -4603,7 +4698,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-YFK"
+            "registration": "VH-YFK",
+            "type": "738"
           }
         },
         {
@@ -4618,7 +4714,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VZW"
+            "registration": "VH-VZW",
+            "type": "738"
           }
         }
       ]
@@ -4638,7 +4735,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VZO"
+            "registration": "VH-VZO",
+            "type": "738"
           }
         },
         {
@@ -4653,7 +4751,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-XZE"
+            "registration": "VH-XZE",
+            "type": "738"
           }
         }
       ]
@@ -4673,7 +4772,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-ZPQ"
+            "registration": "VH-ZPQ",
+            "type": "190"
           }
         },
         {
@@ -4688,7 +4788,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VUH"
+            "registration": "VH-VUH",
+            "type": "738"
           }
         }
       ]
@@ -4708,7 +4809,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-XZN"
+            "registration": "VH-XZN",
+            "type": "738"
           }
         },
         {
@@ -4769,7 +4871,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VZY"
+            "registration": "VH-VZY",
+            "type": "738"
           }
         },
         {
@@ -4813,7 +4916,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VXK"
+            "registration": "VH-VXK",
+            "type": "738"
           }
         }
       ]
@@ -4850,7 +4954,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "A6-EDN"
+            "registration": "A6-EDN",
+            "type": "388"
           },
           "class": "F",
           "notes": "Marketed as QF8763"
@@ -4872,7 +4977,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VXO"
+            "registration": "VH-VXO",
+            "type": "738"
           }
         }
       ]
@@ -4892,7 +4998,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VYG"
+            "registration": "VH-VYG",
+            "type": "738"
           }
         },
         {
@@ -4907,7 +5014,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VXI"
+            "registration": "VH-VXI",
+            "type": "738"
           }
         }
       ]
@@ -4943,7 +5051,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-XZL"
+            "registration": "VH-XZL",
+            "type": "738"
           }
         }
       ]
@@ -4964,7 +5073,7 @@
           "purpose": "B",
           "aircraft": {
             "registration": "VH-YQU",
-            "type": "717"
+            "type": "712"
           }
         },
         {
@@ -4996,7 +5105,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VZB"
+            "registration": "VH-VZB",
+            "type": "738"
           }
         },
         {
@@ -5032,7 +5142,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VZP"
+            "registration": "VH-VZP",
+            "type": "738"
           }
         },
         {
@@ -5047,7 +5158,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VZZ"
+            "registration": "VH-VZZ",
+            "type": "738"
           }
         }
       ]
@@ -5103,7 +5215,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VXM"
+            "registration": "VH-VXM",
+            "type": "738"
           }
         },
         {
@@ -5118,7 +5231,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VZS"
+            "registration": "VH-VZS",
+            "type": "738"
           }
         }
       ]
@@ -5138,7 +5252,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-VZZ"
+            "registration": "VH-VZZ",
+            "type": "738"
           }
         },
         {
@@ -5153,7 +5268,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-VZE"
+            "registration": "VH-VZE",
+            "type": "738"
           }
         }
       ]
@@ -5188,7 +5304,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VXH"
+            "registration": "VH-VXH",
+            "type": "738"
           }
         }
       ]
@@ -5208,7 +5325,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VXJ"
+            "registration": "VH-VXJ",
+            "type": "738"
           }
         },
         {
@@ -5224,7 +5342,7 @@
           "purpose": "B",
           "aircraft": {
             "registration": "VH-YQU",
-            "type": "717"
+            "type": "712"
           },
           "notes": "Was booked on QF815 1500-1610"
         }
@@ -5245,7 +5363,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-XZG"
+            "registration": "VH-XZG",
+            "type": "738"
           }
         },
         {
@@ -5281,7 +5400,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-YQT"
+            "registration": "VH-YQT",
+            "type": "712"
           },
           "notes": "Was booked on QF804 0720-0825"
         },
@@ -5318,7 +5438,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VZV"
+            "registration": "VH-VZV",
+            "type": "738"
           }
         },
         {
@@ -5333,7 +5454,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VZP"
+            "registration": "VH-VZP",
+            "type": "738"
           }
         }
       ]
@@ -5353,7 +5475,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VXH"
+            "registration": "VH-VXH",
+            "type": "738"
           }
         },
         {
@@ -5409,7 +5532,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VZR"
+            "registration": "VH-VZR",
+            "type": "738"
           }
         },
         {
@@ -5424,7 +5548,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VYH"
+            "registration": "VH-VYH",
+            "type": "738"
           }
         }
       ]
@@ -5445,7 +5570,7 @@
           "purpose": "B",
           "aircraft": {
             "registration": "VH-YQW",
-            "type": "717"
+            "type": "712"
           }
         },
         {
@@ -5480,7 +5605,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VYB"
+            "registration": "VH-VYB",
+            "type": "738"
           }
         },
         {
@@ -5516,7 +5642,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-LQQ"
+            "registration": "VH-LQQ",
+            "type": "DH4"
           }
         }
       ]
@@ -5536,7 +5663,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-XZK"
+            "registration": "VH-XZK",
+            "type": "738"
           }
         },
         {
@@ -5551,7 +5679,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VXO"
+            "registration": "VH-VXO",
+            "type": "738"
           }
         }
       ]
@@ -5571,7 +5700,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VZX"
+            "registration": "VH-VZX",
+            "type": "738"
           }
         },
         {
@@ -5586,7 +5716,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VZV"
+            "registration": "VH-VZV",
+            "type": "738"
           },
           "notes": "Was booked on QF483 2015-2125"
         }
@@ -5607,7 +5738,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-QOP"
+            "registration": "VH-QOP",
+            "type": "DH4"
           }
         }
       ]
@@ -5627,7 +5759,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VZO"
+            "registration": "VH-VZO",
+            "type": "738"
           }
         },
         {
@@ -5662,7 +5795,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VYC"
+            "registration": "VH-VYC",
+            "type": "738"
           }
         },
         {
@@ -5677,7 +5811,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VYA"
+            "registration": "VH-VYA",
+            "type": "738"
           },
           "notes": "Was booked on QF833 1830-1940"
         }
@@ -5698,7 +5833,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VXF"
+            "registration": "VH-VXF",
+            "type": "738"
           }
         },
         {
@@ -5713,7 +5849,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VZD"
+            "registration": "VH-VZD",
+            "type": "738"
           }
         }
       ]
@@ -5733,7 +5870,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VZW"
+            "registration": "VH-VZW",
+            "type": "738"
           }
         },
         {
@@ -5748,7 +5886,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VXR"
+            "registration": "VH-VXR",
+            "type": "738"
           }
         }
       ]
@@ -5803,7 +5942,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-YQX"
+            "registration": "VH-YQX",
+            "type": "712"
           },
           "notes": "Was booked on QF822 1915-2020"
         },
@@ -5819,7 +5959,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VZC"
+            "registration": "VH-VZC",
+            "type": "738"
           }
         }
       ]
@@ -5839,7 +5980,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-LQQ"
+            "registration": "VH-LQQ",
+            "type": "DH4"
           }
         },
         {
@@ -5854,7 +5996,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "registration": "VH-QOE"
+            "registration": "VH-QOE",
+            "type": "DH4"
           }
         }
       ]
@@ -5874,7 +6017,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VXM"
+            "registration": "VH-VXM",
+            "type": "738"
           }
         },
         {
@@ -5889,7 +6033,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VZM"
+            "registration": "VH-VZM",
+            "type": "738"
           }
         }
       ]
@@ -5909,7 +6054,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VYD"
+            "registration": "VH-VYD",
+            "type": "738"
           }
         },
         {
@@ -5924,7 +6070,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VYG"
+            "registration": "VH-VYG",
+            "type": "738"
           },
           "notes": "Was booked on QF833 1830-1940"
         }
@@ -5980,7 +6127,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-XZG"
+            "registration": "VH-XZG",
+            "type": "738"
           }
         },
         {
@@ -5995,7 +6143,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VXT"
+            "registration": "VH-VXT",
+            "type": "738"
           }
         }
       ]
@@ -6015,7 +6164,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VXM"
+            "registration": "VH-VXM",
+            "type": "738"
           }
         },
         {
@@ -6051,7 +6201,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-XZI"
+            "registration": "VH-XZI",
+            "type": "738"
           }
         },
         {
@@ -6066,7 +6217,8 @@
           },
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VZB"
+            "registration": "VH-VZB",
+            "type": "738"
           }
         }
       ]
@@ -6090,7 +6242,8 @@
           "ticketnumber": "819100827424",
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VYE"
+            "registration": "VH-VYE",
+            "type": "738"
           },
           "cost": "811.45 AUD"
         },
@@ -6110,7 +6263,8 @@
           "ticketnumber": "819100827424",
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VYH"
+            "registration": "VH-VYH",
+            "type": "738"
           },
           "cost": "811.45 AUD",
           "notes": "Was booked on QF819 1700-1810"
@@ -6136,7 +6290,8 @@
           "ticketnumber": "819100827426",
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VZV"
+            "registration": "VH-VZV",
+            "type": "738"
           },
           "cost": "811.45 AUD",
           "notes": "811.45 + 69.60 AUD"
@@ -6157,7 +6312,8 @@
           "ticketnumber": "819100827426",
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VXI"
+            "registration": "VH-VXI",
+            "type": "738"
           },
           "cost": "811.45 AUD"
         }
@@ -6204,7 +6360,8 @@
           "ticketnumber": "819101128029",
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VXC"
+            "registration": "VH-VXC",
+            "type": "738"
           },
           "cost": "69.60 AUD",
           "notes": "811.45, 69.60 AUD, 701.83 AUD, Ticket 819101230538"
@@ -6230,7 +6387,8 @@
           "ticketnumber": "819101128042",
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VXH"
+            "registration": "VH-VXH",
+            "type": "738"
           },
           "cost": "771.43 AUD"
         },
@@ -6250,7 +6408,8 @@
           "ticketnumber": "819101128042",
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VYH"
+            "registration": "VH-VYH",
+            "type": "738"
           },
           "cost": "771.43 AUD"
         }
@@ -6321,7 +6480,8 @@
           "ticketnumber": "819101128043",
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VYJ"
+            "registration": "VH-VYJ",
+            "type": "738"
           },
           "cost": "771.43 AUD"
         },
@@ -6341,7 +6501,8 @@
           "ticketnumber": "819101128043",
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VZC"
+            "registration": "VH-VZC",
+            "type": "738"
           },
           "cost": "771.43 AUD"
         }
@@ -6366,7 +6527,8 @@
           "ticketnumber": "819101128045",
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-XZL"
+            "registration": "VH-XZL",
+            "type": "738"
           },
           "cost": "701.83 AUD"
         },
@@ -6386,7 +6548,8 @@
           "ticketnumber": "819101128045",
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-NXI"
+            "registration": "VH-NXI",
+            "type": "712"
           },
           "cost": "701.83 AUD",
           "notes": "Was booked on QF815 1455-1605; Moved on to QF1535"
@@ -6412,7 +6575,8 @@
           "ticketnumber": "819101335391",
           "purpose": "B",
           "aircraft": {
-            "registration": "VH-VYF"
+            "registration": "VH-VYF",
+            "type": "738"
           },
           "cost": "870.30 AUD"
         },
@@ -10158,11 +10322,12 @@
           "ticketnumber": "081-2572746678",
           "purpose": "B",
           "aircraft": {
-            "registration": "32B"
+            "type": "321"
           },
           "seat": "001C",
           "class": "DISCOUNT BUSINESS",
-          "cost": "11362.39 AUD"
+          "cost": "11362.39 AUD",
+          "notes": "Operated by AA (AA2117 in 2023);  American Airlines premier Airbus A321 Transcontinental (32B)"
         },
         {
           "flight": "QF3068",

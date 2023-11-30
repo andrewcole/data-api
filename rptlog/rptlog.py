@@ -53,7 +53,7 @@ class Type(BaseModel):
 
 class Aircraft(BaseModel):
     registration = TextField(null=True)
-    type = ForeignKeyField(Type, backref="type", null=True)
+    type = ForeignKeyField(Type, backref="type")
 
 
 class Flight(BaseModel):
@@ -146,13 +146,15 @@ def cli(
                     )
 
                     if json_flight.get("aircraft"):
-                        if json_flight["aircraft"].get("type"):
-                            sql_aircraft_type, created = Type.get_or_create(
-                                name=json_flight["aircraft"]["type"],
-                                defaults={},
+                        if "type" not in json_flight["aircraft"].keys():
+                            raise ValueError(
+                                f"Aircraft: {json_flight['aircraft']['registration']} missing type"
                             )
-                        else:
-                            sql_aircraft_type = None
+                        
+                        sql_aircraft_type, created = Type.get_or_create(
+                            name=json_flight["aircraft"]["type"],
+                            defaults={},
+                        )
 
                         sql_aircraft, created = Aircraft.get_or_create(
                             registration=json_flight["aircraft"].get("registration"),
