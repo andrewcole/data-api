@@ -80,6 +80,7 @@ RUN sqlite-utils create-view rptlog.db log \
     destination.`iata` as destination, \
     flight.`start` as start, \
     flight.`end` as end, \
+    aircraft.`id` as aircraft_id, \
     aircraft.`registration` as registration, \
     type.`name` as type \
   from \
