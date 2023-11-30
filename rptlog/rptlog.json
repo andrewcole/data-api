@@ -405,7 +405,8 @@
           },
           "purpose": "L",
           "aircraft": {
-            "type": "100"
+            "type": "100",
+            "registration": "B-12291",
           },
           "seat": "19C"
         },
